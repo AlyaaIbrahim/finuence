@@ -1,17 +1,21 @@
 # Finuence Advisory Website
 
-Ready for free GitHub Pages hosting.
+This version does not include any personal headshot.
 
-## Publish
-1. Create a free GitHub account.
-2. Create a new public repository called `finuence`.
-3. Upload the contents of this folder.
-4. Open Settings > Pages.
-5. Choose Deploy from a branch > main > /(root).
-6. GitHub will give you a free URL like `https://YOUR-USERNAME.github.io/finuence/`.
+## GitHub Pages
+Upload these files directly to the root of your `finuence` repository:
 
-## Before publishing
-- Review the email address and company wording.
-- Add your LinkedIn company URL once it is live.
-- Replace/add portfolio images whenever you want.
-- You can later connect a paid custom domain while keeping GitHub hosting free.
+- index.html
+- styles.css
+- script.js
+- logo.png
+- fpa_dashboard.png
+- startup_dashboard.png
+- banner.png (optional)
+
+Then open:
+
+Settings > Pages > Deploy from a branch > main > /(root)
+
+Your site:
+https://alyaaibrahim.github.io/finuence/
